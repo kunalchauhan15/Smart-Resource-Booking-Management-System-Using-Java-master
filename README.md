@@ -124,5 +124,5 @@ This project is open-source and free to use for educational purposes.
 
 ## 🙋‍♂️ Author
 Devansh
-devanshdmp15@gmail.com
+kunalchauhan0205@gmail.com
 
